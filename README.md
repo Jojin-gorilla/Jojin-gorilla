@@ -10,7 +10,7 @@
 - Provider: AWS Training & Certification  
 - Description: AWS 핵심 서비스(EC2, S3, RDS 등) 및 기본 아키텍처 학습 :contentReference[oaicite:0]{index=0}  
 - [📄 Certificate PDF](./certificates/AWS_Technical_Essentials.pdf)  
-- ![Preview](./certificates/AWS_Technical_Essentials.png)
+
 
 ---
 
