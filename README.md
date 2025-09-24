@@ -1,7 +1,6 @@
 # 🎓 AWS Training & Certificates
 
-제가 직접 이수한 AWS Training & Certification 과정들입니다.  
-(⚠️ 참고: 아래는 정식 AWS 자격증이 아닌, 무료 교육 과정 **Certificate of Completion** 수료증입니다.)
+이 레포지토리는 제가 학습한 과정, 기술 스택을 정리한 공간입니다. 🫡😊
 
 ---
 
@@ -50,6 +49,18 @@
 - [📄 Certificate](./Developing%20Generative%20AI%20Applications%20on%20AWS.png)
 
 ---
+
+## 🚀 Languages and Tools (Badges Style)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🔗 Profiles
 - [LinkedIn](https://www.linkedin.com/in/kim-sejin-60332b335/)
