@@ -38,7 +38,7 @@
 - Date: 2025-09-16  
 - Provider: AWS Training & Certification  
 - Description: 생성형 AI 개념과 AWS 활용 방법 기초 학습  
-- ![Preview](./certificates/Generative AI Essentials on AWS.pdf)
+- [📄 Certificate PDF](./certificates/Generative_AI_Essentials_on_AWS.pdf)
 
 ---
 
@@ -46,8 +46,9 @@
 ![Developing GenAI Apps](https://img.shields.io/badge/AWS-Developing%20GenAI%20Apps-success?logo=amazon-aws&logoColor=white)  
 - Date: 2025-09-17  
 - Provider: AWS Training & Certification  
-- Description: Amazon Bedrock, SageMaker 등을 활용한 생성형 AI 애플리케이션 개발  
-- ![Preview](./certificates/Developing Generative AI Applications on AWS.pdf)
+- Description: Amazon Bedrock, SageMaker 등을 활용한 생성형 AI 애플리케이션 개발
+- - [📄 Certificate PDF](./certificates/Developing%20Generative%20AI%20Applications%20on%20AWS.pdf)
+
   
 
 ---
